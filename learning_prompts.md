@@ -83,10 +83,6 @@ fully certain a resource still exists or is current — I'll verify before relyi
 
 ---
 
-## Contributing
-
-Have a learning prompt that works well? PRs welcome. Keep additions to the same format: a one-line "why this works," followed by a single fenced prompt with clear bracketed placeholders.
-
 ## License
 
 MIT
